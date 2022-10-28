@@ -13,7 +13,3 @@
 
 # ALGORITMA
 # Jangan lupa memberikan komentar secukupnya.
-
-# Output harus disimpan dalam matriks yang baru, bernama result.
-# Sintaks di bawah harus dimasukkan dalam program untuk mencetak output.
-print(result)
